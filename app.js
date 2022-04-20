@@ -111,7 +111,7 @@ class Bd {
     }
 
     remover(id) {
-        localStorage.removeItem(id)
+        localStorage.removeItem('id')
     }
 }
 
